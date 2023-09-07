@@ -63,6 +63,11 @@ img {
 
 .descrizione {
     color: white;
+    padding: 10px;
+}
+
+h3, p, a {
+    margin-bottom: 10px;
 }
 
 
