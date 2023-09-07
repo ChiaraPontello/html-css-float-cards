@@ -39,8 +39,12 @@ h1 {
 
 .box {
     width: calc(100% / 3);
-    margin-top: 20px;
     border: 1px solid red;
+    background-color: black;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
    
 }
 
@@ -50,6 +54,23 @@ h1 {
 
 .pull-right{
     float:right;
+    margin: 
+}
+
+img {
+   width: 100px;
+   height: 100px;
+
+}
+
+.descrizione {
+    color: white;
+
+}
+
+
+.debug {
+    border-color: red;
 }
 
 
@@ -58,9 +79,11 @@ h1 {
 
 
 
-.debug{
-    border: 10px solid black;
-    margin: auto;
 
-}
+
+
+
+
+
+
 
