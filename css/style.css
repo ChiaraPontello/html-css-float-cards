@@ -18,7 +18,7 @@
 
 /* inizio header*/
 h1 {
-    background-color: aqua;
+    
     text-align: center;
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
@@ -34,18 +34,17 @@ h1 {
     text-align: center;
     padding: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: blueviolet;
+   
 }
 
 .box {
     width: calc(100% / 3);
     border: 1px solid red;
     background-color: black;
-    display: inline-block;
     margin-top: 10px;
-    margin-bottom: 10px;
-    
-   
+    margin-bottom: 10px; 
+    margin-right: ;
+    color: white;
 }
 
 .pull-left{
@@ -54,17 +53,18 @@ h1 {
 
 .pull-right{
     float:right;
-    margin: 
+    margin-right: 10px;
 }
 
 img {
    width: 100px;
    height: 100px;
-
 }
 
 .descrizione {
     color: white;
+    margin-left: 20px;
+   
 
 }
 
